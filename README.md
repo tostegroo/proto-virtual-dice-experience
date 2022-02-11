@@ -1,4 +1,4 @@
-![Dice ICon](/Images/DIce_Banner.png)
+![Dice ICon](/Images/Dice_Banner.png)
 
 # Virtual Dice Experience
 
